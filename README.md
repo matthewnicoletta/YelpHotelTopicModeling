@@ -1,5 +1,7 @@
 # Yelp Hotel Reviews Topic Modeling & Text Analytics Projetct
 
+Start here: <a href="https://www.matthewnicoletta.com/Yelp_Hotel_NLP.html">https://www.matthewnicoletta.com/Yelp_Hotel_NLP.html</a>
+
 ## Summary
 This is a Jupyter Notebook-based project in Python that uses topic modeling and other text analytics techniques to glean insights from Yelp Hotel reviews. The goal of the project was to identify key customer experiences driving both positive and negative reviews. 
 
@@ -12,7 +14,7 @@ This repository contains:
 
 The actual data file is a SQLite3 .db that is too large to upload to a standard github repo, but I can provide upon request.
 
-*Start with the HTML file, which shows both the code and the output, including interactive visualizations*
+*Start with the HTML file, which shows both the code and the output, including interactive visualizations: <a href="https://www.matthewnicoletta.com/Yelp_Hotel_NLP.html">https://www.matthewnicoletta.com/Yelp_Hotel_NLP.html</a>*
 
 ## Data Source & Methodology
 The data source includes Yelp reviews for many venues/services that are NOT hotels, so some filtering was required. 
