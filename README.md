@@ -6,9 +6,11 @@ This is a Jupyter Notebook-based project in Python that uses topic modeling and 
 ## Project Files - Where to Start
 This repository contains:
 
-1. a Jupyter Notebook file, containing the Python code used to perform the textual analysis
-2. an HTML-based output of that Jupyter
-3. Yelp review data stored as a SQLite database
+1. Yelp_Hotel_NLP.ipynb - a Jupyter Notebook file, containing the Python code used to perform the textual analysis
+2. Yelp_Hotel_NLP.html - an HTML-based output of that Jupyter
+3. Yelp review data dictionary
+
+The actual data file is a SQLite3 .db that is too large to upload to a standard github repo, but I can provide upon request.
 
 *Start with the HTML file, which shows both the code and the output, including interactive visualizations*
 
