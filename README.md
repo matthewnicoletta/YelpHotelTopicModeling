@@ -13,5 +13,7 @@ This repository contains:
 *Start with the HTML file, which shows both the code and the output, including interactive visualizations*
 
 ## Data Source & Methodology
-The data source includes Yelp reviews 
+The data source includes Yelp reviews for many venues/services that are NOT hotels, so some filtering was required. 
+
+Note that this was a team project, for which I wrote 90% of the code.
 
