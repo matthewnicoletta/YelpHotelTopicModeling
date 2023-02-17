@@ -12,7 +12,7 @@ This repository contains:
 2. Yelp_Hotel_NLP.html - an HTML-based output of that Jupyter
 3. Yelp review data dictionary
 
-The actual data file is a SQLite3 .db that is too large to upload to a standard github repo, but I can provide upon request.
+The actual data file is a SQLite3 .db that is too large to upload to a standard github repo, can be viewed/downloaded from dropbox here: <a href="https://www.dropbox.com/s/qfcq7byvfelfdqw/yelp_hotel.db?dl=0">https://www.dropbox.com/s/qfcq7byvfelfdqw/yelp_hotel.db?dl=0</a>.
 
 *Start with the HTML file, which shows both the code and the output, including interactive visualizations: <a href="https://www.matthewnicoletta.com/Yelp_Hotel_NLP.html">https://www.matthewnicoletta.com/Yelp_Hotel_NLP.html</a>*
 
